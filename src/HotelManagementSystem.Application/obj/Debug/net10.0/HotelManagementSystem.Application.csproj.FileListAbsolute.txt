@@ -1,0 +1,15 @@
+D:\00Projects\myprojects\src\HotelManagementSystem.Application\bin\Debug\net10.0\HotelManagementSystem.Application.deps.json
+D:\00Projects\myprojects\src\HotelManagementSystem.Application\bin\Debug\net10.0\HotelManagementSystem.Application.dll
+D:\00Projects\myprojects\src\HotelManagementSystem.Application\bin\Debug\net10.0\HotelManagementSystem.Application.pdb
+D:\00Projects\myprojects\src\HotelManagementSystem.Application\bin\Debug\net10.0\HotelManagementSystem.Domain.dll
+D:\00Projects\myprojects\src\HotelManagementSystem.Application\bin\Debug\net10.0\HotelManagementSystem.Domain.pdb
+D:\00Projects\myprojects\src\HotelManagementSystem.Application\obj\Debug\net10.0\HotelManagementSystem.Application.csproj.AssemblyReference.cache
+D:\00Projects\myprojects\src\HotelManagementSystem.Application\obj\Debug\net10.0\HotelManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\00Projects\myprojects\src\HotelManagementSystem.Application\obj\Debug\net10.0\HotelManagementSystem.Application.AssemblyInfoInputs.cache
+D:\00Projects\myprojects\src\HotelManagementSystem.Application\obj\Debug\net10.0\HotelManagementSystem.Application.AssemblyInfo.cs
+D:\00Projects\myprojects\src\HotelManagementSystem.Application\obj\Debug\net10.0\HotelManagementSystem.Application.csproj.CoreCompileInputs.cache
+D:\00Projects\myprojects\src\HotelManagementSystem.Application\obj\Debug\net10.0\HotelMan.6746D6C4.Up2Date
+D:\00Projects\myprojects\src\HotelManagementSystem.Application\obj\Debug\net10.0\HotelManagementSystem.Application.dll
+D:\00Projects\myprojects\src\HotelManagementSystem.Application\obj\Debug\net10.0\refint\HotelManagementSystem.Application.dll
+D:\00Projects\myprojects\src\HotelManagementSystem.Application\obj\Debug\net10.0\HotelManagementSystem.Application.pdb
+D:\00Projects\myprojects\src\HotelManagementSystem.Application\obj\Debug\net10.0\ref\HotelManagementSystem.Application.dll
